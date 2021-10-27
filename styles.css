@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(26, 2, 2);
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+
+  /* font: 600 30px  "Roboto", sans-serif; */
+
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: blueviolet;
+}
+a:visited {
+  text-decoration: line-through;
+}
+
+.amogus {
+  width: 800px;
+  border-radius: 28px;
+}
+
+.spirit {
+  color: rgb(218, 101, 80);
+  margin: 0;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+  /*text-transform: capitalize;*/
+  /*letter-spacing: 5 px*/
+}
+/* box model */
+.div {
+  max-width: 750px;
+  margin: auto;
+}
+/*.alfzz {
+  background-color: rgb(28, 175, 15);
+  padding: 15px 40px;
+  border: 15px rgb(207, 37, 37);
+  margin: 80px;
+
+  border-bottom-style: dotted;
+  border-top-width: 20px;
+}
+.boxmodel > div {
+  background-color: black;
+  height: 200px;
+} */
+.bg-1 {
+  background-color: lightpink;
+}
+.bg-2 {
+  background-color: lightgreen;
+}
+.bg-3 {
+  background-color: lightgoldenrodyellow;
+}
+.bg-4 {
+  background-color: rgb(122, 235, 229);
+}
+.card {
+  width: 50%;
+  border-radius: 28px;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
